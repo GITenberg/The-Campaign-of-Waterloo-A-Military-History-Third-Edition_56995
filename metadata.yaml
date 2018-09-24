@@ -1,11 +1,16 @@
 _repo: The-Campaign-of-Waterloo-A-Military-History-Third-Edition_56995
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56995-h/images/cover.jpg
 creator:
   author:
     agent_name: Ropes, John Codman
     gutenberg_agent_id: '49136'
     url: http://www.gutenberg.org/2009/agents/49136
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56995#The-Campaign-of-Waterloo-A-Military-History-Third-Edition
 gutenberg_issued: '2018-04-18'
 gutenberg_type: Text
 identifiers:
